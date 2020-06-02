@@ -1,1 +1,1 @@
-# project_joe
+# applied data science
